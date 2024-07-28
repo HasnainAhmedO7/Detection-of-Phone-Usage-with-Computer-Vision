@@ -8,7 +8,7 @@ The main objective of this project is to monitor and detect phone usage activity
 
 #### MediaPipe: For facial landmark detection and head pose estimation.
 
-#### YOLOv8: For real-time object detection to identify phones and people.
+#### YOLOv8: For real-time object detection to identify phones.
 
 ### Setup
 
